@@ -1,0 +1,6 @@
+---
+execution:
+- concurrency: 50
+hold-for:3m
+ramp_up: 2m
+scenario: choose flight
